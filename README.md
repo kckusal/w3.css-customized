@@ -1,5 +1,5 @@
 # W3.CSS-Customized
-This is the version of W3.CSS framework customized for me. To know more about Kusal KC, visit his personal website at www.kusalkc.com.np at your convenience.
+This is the version of W3.CSS framework customized for me. To know more about Kusal KC, visit his personal website at http://www.kusalkc.com.np at your convenience.
 
 ###What is W3.CSS and why is it interesting?
 
