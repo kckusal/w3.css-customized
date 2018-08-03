@@ -72,8 +72,8 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .bar .button{white-space:normal}
 .bar-block .bar-item{width:100%;display:block;padding:8px 16px;text-align:left;border:none;white-space:normal;float:none;outline:0}
 .bar-block.center .bar-item{text-align:center}.block{display:block;width:100%}
-.burger-menu{cursor:pointer;display:block;height:inherit;position:relative;width:3.25rem;margin-left:auto;}
-.burger-menu span {background-color: currentColor;display: block;height: 1px;left: calc(50% - 8px);position: absolute;-webkit-transform-origin: center;transform-origin: center;transition-duration: 86ms;transition-property: background-color, opacity, -webkit-transform;transition-property: background-color, opacity, transform;transition-property: background-color, opacity, transform, -webkit-transform;transition-timing-function: ease-out;width: 16px;}
+.burger-menu{cursor:pointer;display:block;height:inherit;position:relative;width:16px;margin-left:auto;}
+.burger-menu span {background-color: currentColor;display: block;height: 1px;left: calc(50% - 8px);position: absolute;-webkit-transform-origin: center;transform-origin: center;transition-duration: 86ms;transition-property: background-color, opacity, -webkit-transform;transition-property: background-color, opacity, transform;transition-property: background-color, opacity, transform, -webkit-transform;transition-timing-function: ease-out;width:inherit;}
 .burger-menu span:nth-child(1) {top: calc(50% - 6px)}
 .burger-menu span:nth-child(2) {top: calc(50% - 1px)}
 .burger-menu span:nth-child(3) {top: calc(50% + 4px);}
