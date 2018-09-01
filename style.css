@@ -245,12 +245,13 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .border-dark-grey,.hover-border-dark-grey:hover,.border-dark-gray,.hover-border-dark-gray:hover{border-color:#616161!important}
 .border-pale-red,.hover-border-pale-red:hover{border-color:#ffe7e7!important}.border-pale-green,.hover-border-pale-green:hover{border-color:#e7ffe7!important}
 .border-pale-yellow,.hover-border-pale-yellow:hover{border-color:#ffffcc!important}.border-pale-blue,.hover-border-pale-blue:hover{border-color:#e7ffff!important}
-.outline,.hover-outline:hover{outline: 1px solid black;}
-.no-outline,.hover-no-outline:hover{outline:0!important;}
-.no-border,.hover-no-border:hover{border:none!important;}
-.no-padding{padding:0!important;}
-.no-margin{margin:0!important;}
-.bold{font-weight: bolder;}
-.italic{font-style: italic;}
-.underline{text-decoration: underline;}
-.no-text-decoration{text-decoration: none!important;}
+.outline,.hover-outline:hover{outline: 1px solid black}
+.no-outline,.hover-no-outline:hover{outline:0!important}
+.no-border,.hover-no-border:hover{border:none!important}
+.no-padding{padding:0!important}
+.no-margin{margin:0!important}
+.bold{font-weight:bolder}
+.italic{font-style:italic}
+.underline{text-decoration:underline}
+.no-text-decoration{text-decoration:none!important}
+.hoverable{cursor:pointer!important;background:#ccc}
