@@ -254,4 +254,4 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .italic{font-style:italic}
 .underline{text-decoration:underline}
 .no-text-decoration{text-decoration:none!important}
-.hoverable{cursor:pointer!important;background:#ccc}
+.hoverable{cursor:pointer!important}
