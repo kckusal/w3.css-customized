@@ -135,6 +135,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .animate-bottom{position:relative;animation:animatebottom 0.4s}@keyframes animatebottom{from{bottom:-300px;opacity:0} to{bottom:0;opacity:1}}
 .animate-zoom{animation:animatezoom 0.6s}@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
 .animate-blink,.animate-hover-blink:hover{animation:blink 0.75s infinite linear}@keyframes blink{0%{opacity:1}50%{opacity:1}100%{opacity:0}}
+.animate-stretching,.animate-hover-stretching:hover{animation:stretching .85s}@keyframes stretching{from{width:0%} to{width:100%}}
 .animate-input{transition:width 0.4s ease-in-out}.animate-input:focus{width:100%!important}
 .opacity,.hover-opacity:hover{opacity:0.60}.opacity-off,.hover-opacity-off:hover{opacity:1}
 .opacity-max{opacity:0.25}.opacity-min{opacity:0.75}
