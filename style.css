@@ -249,10 +249,10 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .outline,.hover-outline:hover{outline: 1px solid black}
 .no-outline,.hover-no-outline:hover{outline:0!important}
 .no-border,.hover-no-border:hover{border:none!important}
-.no-padding{padding:0!important}
-.no-margin{margin:0!important}
-.bold{font-weight:bolder}
-.italic{font-style:italic}
-.underline{text-decoration:underline}
-.no-text-decoration{text-decoration:none!important}
+.no-padding,.hover-no-padding:hover{padding:0!important}
+.no-margin,.hover-no-margin:hover{margin:0!important}
+.bold,.hover-bold:hover{font-weight:bolder}
+.italic,.hover-italic:hover{font-style:italic}
+.underline,.hover-underline:hover{text-decoration:underline}
+.no-text-decoration,.hover-no-text-decoration:hover{text-decoration:none!important}
 .hoverable{cursor:pointer!important}
