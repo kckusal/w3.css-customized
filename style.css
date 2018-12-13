@@ -1,4 +1,4 @@
-/* Customized by Kusal KC from "W3.CSS 4.10 February 2018 by Jan Egil and Borge Refsnes" */
+/* Customized by Kusal KC for personal use; Originally taken from "W3.CSS 4.10 February 2018 by Jan Egil and Borge Refsnes" */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
@@ -256,3 +256,5 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .underline,.hover-underline:hover{text-decoration:underline}
 .no-text-decoration,.hover-no-text-decoration:hover{text-decoration:none!important}
 .hoverable{cursor:pointer!important}
+
+@import url("https://use.fontawesome.com/releases/v5.6.1/css/all.css");
