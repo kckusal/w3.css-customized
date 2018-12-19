@@ -4,6 +4,8 @@
 .openSans{font-family:'Open Sans'}.muli{font-family:'Muli'}.raleway{font-family:'Raleway'}.righteous{font-family:'Righteous'}.roboto{font-family:'Roboto'}.rubik{font-family:'Rubik'}
 @font-face{font-family:'Segoe UI';src:local('Segoe UI'),url('fonts/segoe-ui/segoe-ui.TTF')}}
 .fw2{font-weight:200}.fw3{font-weight:300}.fw4{font-weight:400}.fw5{font-weight:500}.fw6{font-weight:600}.fw7{font-weight:700}.fw8{font-weight:800}.fw9{font-weight:900}
+//Get Font Awesome Icons ready for use
+@import url("https://use.fontawesome.com/releases/v5.6.1/css/all.css");
 
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
@@ -263,5 +265,3 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .underline,.hover-underline:hover{text-decoration:underline}
 .no-text-decoration,.hover-no-text-decoration:hover{text-decoration:none!important}
 .hoverable{cursor:pointer!important}
-
-@import url("https://use.fontawesome.com/releases/v5.6.1/css/all.css");
