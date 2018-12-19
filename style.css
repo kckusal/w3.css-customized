@@ -1,4 +1,10 @@
-/* Customized by Kusal KC for personal use; Originally taken from "W3.CSS 4.10 February 2018 by Jan Egil and Borge Refsnes" */
+/** Customized by Kusal KC for personal use; Originally taken from "W3.CSS 4.10 February 2018 by Jan Egil and Borge Refsnes" **/
+/*Let's import some fonts for use and create some styles for them.*/
+@import url('https://fonts.googleapis.com/css?family=Muli|Open+Sans|Raleway|Righteous|Roboto|Rubik');
+.openSans{font-family:'Open Sans'}.muli{font-family:'Muli'}.raleway{font-family:'Raleway'}.righteous{font-family:'Righteous'}.roboto{font-family:'Roboto'}.rubik{font-family:'Rubik'}
+@font-face{font-family:'Segoe UI';src:local('Segoe UI'),url('Segoe UI.ttf')}}
+.fw2{font-weight:200}.fw3{font-weight:300}.fw4{font-weight:400}.fw5{font-weight:500}.fw6{font-weight:600}.fw7{font-weight:700}.fw8{font-weight:800}.fw9{font-weight:900}
+
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
