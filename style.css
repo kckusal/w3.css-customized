@@ -2,7 +2,8 @@
 /*Let's import some fonts for use and create some styles for them.*/
 @import url('https://fonts.googleapis.com/css?family=Muli|Open+Sans|Raleway|Righteous|Roboto|Rubik');
 .openSans{font-family:'Open Sans'}.muli{font-family:'Muli'}.raleway{font-family:'Raleway'}.righteous{font-family:'Righteous'}.roboto{font-family:'Roboto'}.rubik{font-family:'Rubik'}
-@font-face{font-family:'Segoe UI';src:local('Segoe UI'),url('fonts/segoe-ui/segoe-ui.TTF')}}
+@font-face{font-family:'Segoe UI';src:local('Segoe UI'),url('fonts/segoe-ui/segoe-ui.TTF')}} @font-face{font-family:'fontawesome';src:url('fonts/font-awesome/fontawesome.eot?14663396#iefix') format('embedded-opentype'),url('fonts/font-awesome/fontawesome.woff?14663396') format('woff'),url('fonts/font-awesome/fontawesome.ttf?14663396') format('truetype');font-style:normal}
+.segoeUI{font-family:'Segoe UI'}.fontAwesome{font-family:fontawesome}
 .fw1{font-weight:100}.fw2{font-weight:200}.fw3{font-weight:300}.fw4{font-weight:400}.fw5{font-weight:500}.fw6{font-weight:600}.fw7{font-weight:700}.fw8{font-weight:800}.fw9{font-weight:900}
 
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
