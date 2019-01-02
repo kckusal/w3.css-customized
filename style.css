@@ -2,8 +2,8 @@
 /*Let's import some fonts for use and create some styles for them.*/
 @import url('https://fonts.googleapis.com/css?family=Muli|Open+Sans|Raleway|Righteous|Roboto|Rubik');
 .openSans{font-family:'Open Sans'}.muli{font-family:'Muli'}.raleway{font-family:'Raleway'}.righteous{font-family:'Righteous'}.roboto{font-family:'Roboto'}.rubik{font-family:'Rubik'}
-@font-face{font-family: 'Segoe UI';src: url("fonts/segoe-ui/Segoe.ttf");}@font-face{font-family:'fontawesome';src:url('fonts/font-awesome/fontawesome.eot') format('embedded-opentype'),url('fonts/font-awesome/fontawesome.woff') format('woff'),url('fonts/font-awesome/fontawesome.ttf') format('truetype');font-style:normal}
-.segoeUI{font-family:'Segoe UI'}.fontAwesome{font-family:fontawesome}
+@font-face{font-family: 'Segoe UI';src: url("fonts/segoe-ui/Segoe.ttf");}@font-face{font-family: 'Helvetica Neue';src: url("fonts/helvetica-neue/HelveticaNeue.ttf");}@font-face{font-family:'fontawesome';src:url('fonts/font-awesome/fontawesome.eot') format('embedded-opentype'),url('fonts/font-awesome/fontawesome.woff') format('woff'),url('fonts/font-awesome/fontawesome.ttf') format('truetype');font-style:normal}
+.segoeUI{font-family:'Segoe UI'}.helveticaNeue{font-family:'Helvetica Neue'}.fontAwesome{font-family:fontawesome}
 .fw1{font-weight:100}.fw2{font-weight:200}.fw3{font-weight:300}.fw4{font-weight:400}.fw5{font-weight:500}.fw6{font-weight:600}.fw7{font-weight:700}.fw8{font-weight:800}.fw9{font-weight:900}
 
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
